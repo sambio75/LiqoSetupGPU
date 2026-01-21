@@ -1,4 +1,4 @@
-# Setup Demo Liqo su Server GPU ArubaCloud
+# Setup Liqo su Server GPU ArubaCloud
 
 ## 📋 Panoramica
 
